@@ -20,13 +20,13 @@
 
 // ** Параметры базы данных: Эту информацию можно получить у вашего хостинг-провайдера ** //
 /** Имя базы данных для WordPress */
-define( 'DB_NAME', 'igro-papa' );
+define( 'DB_NAME', '*****' );
 
 /** Имя пользователя базы данных */
-define( 'DB_USER', 'igro-papa' );
+define( 'DB_USER', '*****' );
 
 /** Пароль к базе данных */
-define( 'DB_PASSWORD', '-89hjkpZ!;' );
+define( 'DB_PASSWORD', '*****' );
 
 /** Имя сервера базы данных */
 define( 'DB_HOST', 'localhost' );
